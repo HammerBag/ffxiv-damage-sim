@@ -6,6 +6,8 @@ This is a work in progress but will eventually be a web-based simulator for FFXI
 Current development is in a container on repl.it (allows me to access it at work so I can do more on my lunch breaks, but has some limitations). Uses a replit package to keep the console commands clear. When running, you would need to remove the "import replit" and instances of replit.clear() or you will get errors.
 
 ## ChangeLog/Updates
+**July 16, 2025** -
+I've archived this repo as I no longer play Final Fantasy XIV. I don't intend to pick it up again, but have at it if there's anything of value (there probably isn't)
 
 **July 20, 2018** -   
 
